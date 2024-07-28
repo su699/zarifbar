@@ -4,9 +4,8 @@
 بسته بندی حرفه ای اثاث
 ظریف بار تهران با نیروهای ماهر و کارآزموده و تجهیزات و وسایل کامل، آماده ارایه خدمات بسته بندی به صورت حرفه ای و کلی می باشد. بسته بندی اثاث و وسایل شما با فوم و سلفون و کارتن بصورت مرتب صورت می گیرد که وسایل با ارزش شما در حین جابجایی و حمل و نقل آسیب نبینند . بسته بندی ارزان و چینش اثاث حرفه ای را با ما تجربه کنید.
 
-[My Image](https://zarifrbar.com/wp-content/uploads/2021/07/Roadway-Movers-Moving-Company-22ccc.png)
+![Alt text](https://zarifrbar.com/wp-content/uploads/2021/07/Roadway-Movers-Moving-Company-22ccc.png)
 
-![Alt text]([url-to-your-image](https://zarifrbar.com/wp-content/uploads/2021/07/Roadway-Movers-Moving-Company-22ccc.png))
 
 
 
